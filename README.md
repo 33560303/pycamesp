@@ -1,3 +1,6 @@
+I have forked this project because the codebase was a bit too complicated for me to understand. I intend to simplify the build scripts, thereby loosing support for some platforms.
+
+
 Pycameresp is originally designed to be a completely standalone motion detector on ESP32-CAM, but all servers and other functionality also work on generic Esp32 and Pico PI W.
 
 ---
